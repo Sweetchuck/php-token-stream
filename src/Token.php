@@ -846,3 +846,6 @@ class PHP_Token_XHP_REQUIRED extends PHP_Token {}
 class PHP_Token_XHP_TAG_GT extends PHP_Token {}
 class PHP_Token_XHP_TAG_LT extends PHP_Token {}
 class PHP_Token_XHP_TEXT extends PHP_Token {}
+
+class PHP_Token_NAME_QUALIFIED extends PHP_Token {}
+class PHP_Token_NAME_FULLY_QUALIFIED extends PHP_Token {}
